@@ -1,0 +1,11 @@
+# basic options
+title: New-blog
+author: Zerin
+email: your-email@domain.com
+description: A lovely blog
+twitter_username: Zerin
+github_username:  zerindingl
+
+# Build settings
+markdown: kramdown
+theme: minima
